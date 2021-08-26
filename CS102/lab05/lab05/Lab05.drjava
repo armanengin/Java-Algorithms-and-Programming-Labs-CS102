@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" main="hangmangame.GUIHangmanDemo" root="src/" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Lab05.java" package="" timestamp="11-Apr-2019 23:36:39">
+        <select from="254" to="254"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="hangmangame/extras/LetterButtonControls.java" package="hangmangame.extras" timestamp="11-Apr-2019 20:58:02">
+        <select from="254" to="254"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="hangmangame/extras/HangmanConsoleView.java" package="hangmangame.extras" timestamp="11-Apr-2019 14:33:39">
+        <select from="254" to="254"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="hangmangame/ConsoleHangmanDemo.java" package="hangmangame" timestamp="11-Apr-2019 14:34:17">
+        <select from="254" to="254"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="hangmangame/GUIHangmanDemo.java" package="hangmangame" timestamp="11-Apr-2019 23:41:42">
+        <select from="254" to="254"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="hangmangame/extras/HangmanGUIPanel.java" package="hangmangame.extras" timestamp="12-Apr-2019 00:23:35">
+        <select from="254" to="254"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

@@ -1,0 +1,16 @@
+import java.util.ArrayList;
+public class Exercise01{
+  public static String printReverse( ArrayList<String> strings ){
+    String last = strings.get(strings.size()-1);
+   strings.remove(strings.size()-1);   
+    return last + printReverse(strings);    
+  }
+  
+  public static void main(String[] srgs){
+    ArrayList<String> strings = new ArrayList<String>() ;
+    strings.add("a");
+    strings.add("g");
+    strings.add("f");
+    System.out.println(test(strings));
+  }
+}
